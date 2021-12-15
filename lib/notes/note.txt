@@ -1,0 +1,3 @@
+AIzaSyB1b58KjR0Te4JPak6UNv259xDmJ-xnNds
+
+https://shopapp-7f64e-default-rtdb.firebaseio.com/orders.json
